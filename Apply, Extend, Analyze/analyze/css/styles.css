@@ -4,13 +4,11 @@
 	Current Date: 12/2/22
 */
 /* CSS reset */
-body, header, main, section, footer, h1, h2 {
+body, header, main, section, footer, h1, .bg-light-blue {
     margin: 0;
     padding: 0;
     border: 0;
 }
-
-
-#bg-light-blue{
+.bg-light-blue{
 background-color:#cce6ff;
 }
